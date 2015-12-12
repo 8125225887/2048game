@@ -1,0 +1,14 @@
+table {
+  background-color: #999918;
+  margin-left: 450px;
+  padding: 20px;
+}
+ td {
+  background-color: #eee;
+  border-radius: 5px;
+  font-size: 35px;
+  padding: 5px;
+  text-align: center;  
+  height: 100px;
+  width: 100px;
+}
